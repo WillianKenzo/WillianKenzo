@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, Me chamo Willian! :)
+ - Estudante de Engenharia de Software na Unifil
 
-<!--
-**WillianKenzo/WillianKenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## ✍ Sobre mim
+   Estudante na área de TI, com ambição de se tornar um desenvolvedor FullStack.
+   Foco em aprender o máximo possível para alcançar meus objetivos.
 
-Here are some ideas to get you started:
+ ## ☎ Contatos
+  <p align="center">
+  <a href="https://www.linkedin.com/in/willian-kenzo-802566399/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="36" height="36" />
+  </a>
+  <a href="https://www.instagram.com/williankenzosantanna/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="36" height="36" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Email: williankenzo2007@gmail.com
