@@ -3,7 +3,7 @@
 
  ## ✍ Sobre mim
    Estudante na área de TI, com ambição de me tornar um desenvolvedor FullStack.
-   Foco em aprender o máximo possível para alcançar meus objetivos.
+   Foco em aprender o máximo possível para alcançar meus objetivos e me especializar na área da cybersegurança.
 
  ## ☎ Contatos
   <p align="center">
