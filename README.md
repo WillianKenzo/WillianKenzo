@@ -2,7 +2,7 @@
  - Estudante de Engenharia de Software na Unifil
 
  ## ✍ Sobre mim
-   Estudante na área de TI, com ambição de se tornar um desenvolvedor FullStack.
+   Estudante na área de TI, com ambição de me tornar um desenvolvedor FullStack.
    Foco em aprender o máximo possível para alcançar meus objetivos.
 
  ## ☎ Contatos
