@@ -1,11 +1,12 @@
-# Olá, Me chamo Willian! :)
- - Estudante de Engenharia de Software na UniFil
+# Hi, i'm Willian! :)
+ - Software Engineering student at UniFil
 
- ## ✍ Sobre mim
-   Estudante na área de TI, com ambição de me tornar um desenvolvedor FullStack.
-   Tenho foco em aprender o máximo possível para alcançar meus objetivos e me especializar na área da cybersegurança.
+ ## ✍ About me
+   IT student, with the ambition of becoming a FullStack Developer. 
+   I'm focused on learning as much as possible to achieve my goals and specialize in cybersecurity
+   
 
- ## ☎ Contatos
+ ## ☎ Contacts
   <p align="center">
   <a href="https://www.linkedin.com/in/willian-kenzo-802566399/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="36" height="36" />
@@ -15,7 +16,7 @@
   </a>
 </p>
 
-  Email: williankenzo2007@gmail.com
+  How to reach me: williankenzo2007@gmail.com
   
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WillianKenzo/WillianKenzo/output/github-contribution-grid-snake-dark.svg">
